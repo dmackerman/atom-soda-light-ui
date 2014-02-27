@@ -1,9 +1,13 @@
-# Atom Light UI theme
+# Atom Soda Light Theme
 
-Default light UI theme for Atom.
+A port of the Soda Light theme for Atom. All credit for the design inspiration goes to the original soda crew:
+https://github.com/buymeasoda/soda-theme/
 
-This theme is installed by default with Atom and can be activated by going to
-the _Themes_ section in the Settings view (`cmd-,`) and selecting it from the
+
+
+As seen with the [Base 16 Tomorrow Night color scheme](https://github.com/atom/base16-tomorrow-dark-theme) (included with Atom).
+
+:rotating_light: Not a 100% port just yet. Still a WIP.
+
+Can be activated by going to the _Themes_ section in the Settings view (`cmd-,`) and selecting it from the
 _UI Themes_ drop-down menu.
-
-![](https://f.cloud.github.com/assets/671378/2265022/bb148a20-9e7a-11e3-81c8-bf5965d48183.png)
